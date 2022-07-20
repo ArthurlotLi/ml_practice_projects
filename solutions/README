@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Machine Learning Mastery
+SOLUTIONS
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+Description:
+
+Assorted solutions to machine learning problems guided by Jason Brownlee's 
+blog machine learning mastery, created in the interest of self-study and
+familiarization with the specialization. 
+
+Note:
+
+Each problem should contain it's own independent folder named accordingly. 
+Additionally, each problem should also have its own report document named
+similarily found in the documentation folder. 
+
+Each problem should have a standard subfolder "data" that contains a
+.data file. The .names file may also be included for supplemental dataset
+information. 
